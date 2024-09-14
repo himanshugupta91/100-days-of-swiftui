@@ -17,5 +17,5 @@ From [Hacking with Swift](https://www.hackingwithswift.com/read/1/7/wrap-up):
 
 ## Screenshots
 
-![screenshot1](screenshots/screen01.png)
+![screenshot1](screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-14%20at%2023.29.01.png)
 ![screenshot2](screenshots/screen02.png)

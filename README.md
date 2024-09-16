@@ -8,10 +8,10 @@ https://www.hackingwithswift.com/100/swiftui
 
 Type               | Number  | Completion
 :---               |  :---:  |   :---:
-Projects           | 01 / 19 | 100%
-Challenges         | 01 / 57 | 100%
-Milestone Projects |  00 / 6  | 100%
-Challenge days     |  0 / 1  | 100%
+Projects           | 01 / 19 | 00%
+Challenges         | 02 / 57 | 00%
+Milestone Projects |  00 / 6  | 00%
+Challenge days     |  0 / 1  | 00%
 
 ## Preview
 
@@ -19,8 +19,8 @@ Challenge days     |  0 / 1  | 100%
 
 Projects / Topics                                                                                                                                                            | Screenshots
 ---                                                                                                                                                                          |---
-[Project 1](01-Project1) - *WeSplit* <br/>(with challenges)                                         <br/><sub> Form, Section, NavigationView, @State property wrapper, TextField, Picker, ForEach </sub> | ![screen1](/WeSplit%20-%20Project1/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-14%20at%2023.29.16%20(1).png) ![screen2](/WeSplit%20-%20Project1/file.png) |
-[Challenge Day 1](02-ChallengeDay1) - *Converter*  | ![screen1](/ConverterApp/screenshots/small%20screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-16%20at%2020.48.10.png) ![screen2](/ConverterApp/screenshots/small%20screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-16%20at%2021.11.20.png) |
+[Project 1] - *WeSplit* <br/>(with challenges)                                         <br/><sub> Form, Section, NavigationView, @State property wrapper, TextField, Picker, ForEach </sub> | ![screen1](/WeSplit%20-%20Project1/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-14%20at%2023.29.16%20(1).png) ![screen2](/WeSplit%20-%20Project1/file.png) |
+[Challenge Day 1]  - *Converter*  | ![screen1](/ConverterApp/screenshots/small%20screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-16%20at%2020.48.10.png) ![screen2](/ConverterApp/screenshots/small%20screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-09-16%20at%2021.11.20.png) |
 [Project 2](03-Project2) - *Guess the Flag* <br/>(with challenges)                                         <br/><sub> VStack, Image, Alert </sub> | ![screen1](03-Project2/screenshots/small/screen01.png) ![screen2](03-Project2/screenshots/small/screen02.png) |
 [Project 3](04-Project3) - *View and Modifiers* <br/>(with challenges)                                         <br/><sub> Views, modifiers, composition, containers </sub> | ![screen1](04-Project3/screenshots/small/screen01.png) |
 [Milestone Projects 1-3](05-Milestone-Projects1-3) - *Rock Paper Scissors*  | ![screen1](05-Milestone-Projects1-3/screenshots/small/screen01.png) ![screen2](05-Milestone-Projects1-3/screenshots/small/screen02.png) |
